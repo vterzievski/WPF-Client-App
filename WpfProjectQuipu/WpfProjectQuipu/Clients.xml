@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<Clients>
+
+<Client ID = “12345”>
+
+                      <Name>Elena</Name> 
+
+<Addresses>
+
+           <Address Type=1>aaaaaabbbbbb</Address>
+
+           <Address Type=2> Vikend addres</Address>
+
+            …………….
+
+</Address>
+
+<BirthDate>01.09.2001</BirthDate>
+
+</Client>
+
+<Client ID = “54321”>
+
+                      <Name>Ime2</Name> 
+
+<Addresses>
+
+           <Address Type=1> Home addres</Address>
+
+           <Address Type=2> Vikend addres</Address>
+
+            ………..
+
+</Address>
+
+<BirthDate>01.09.2003</BirthDate>
+
+</Client>
+
+-----
+
+-----
+
+-----
+
+</Clients>

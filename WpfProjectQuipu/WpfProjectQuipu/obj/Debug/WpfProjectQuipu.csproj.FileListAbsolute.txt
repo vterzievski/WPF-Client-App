@@ -1,0 +1,38 @@
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\App.g.cs
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu_Content.g.cs
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu_MarkupCompile.cache
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu_MarkupCompile.lref
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\Database1.mdf
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\Database1_log.ldf
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\WpfProjectQuipu.exe.config
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\WpfProjectQuipu.exe
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\WpfProjectQuipu.pdb
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\MainWindow.baml
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.g.resources
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.Properties.Resources.resources
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.csproj.GenerateResource.cache
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.exe
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.pdb
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\Database1.mdf
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\Database1_log.ldf
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\config\connString.config
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\WpfProjectQuipu.exe.config
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\WpfProjectQuipu.exe
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\WpfProjectQuipu.pdb
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.csprojAssemblyReference.cache
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\MainWindow.g.cs
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\App.g.cs
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu_Content.g.cs
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu_MarkupCompile.cache
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu_MarkupCompile.lref
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\MainWindow.baml
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.g.resources
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.Properties.Resources.resources
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.csproj.GenerateResource.cache
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.exe
+C:\Users\Darko\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.pdb
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\bin\Debug\config\connString.config
+C:\Users\Vladimir Terzievski\source\repos\WpfProjectQuipu\WpfProjectQuipu\obj\Debug\WpfProjectQuipu.csprojAssemblyReference.cache
